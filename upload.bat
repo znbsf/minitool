@@ -1,3 +1,4 @@
+::使用adb调试工具来上传文件的脚本
 adb devices
 adb root
 adb remount
